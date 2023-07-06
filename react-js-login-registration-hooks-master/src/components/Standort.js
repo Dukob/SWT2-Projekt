@@ -5,27 +5,27 @@ const Standort = () => {
   const states = [
     {
       name: 'Baden-Württemberg',
-      cities: ['City A', 'City B', 'City C']
+      cities: ['Geislingen', 'Heidenheim', 'Baden-Baden']
     },
     {
       name: 'Berlin',
-      cities: ['City D', 'City E', 'City F']
+      cities: ['Kreuzberg', 'Berlin-Haputbahnhof', 'Berlin-Flughafen']
     },
     {
       name: 'Bremen',
-      cities: ['City G', 'City H', 'City I']
+      cities: ['Mandorf', 'Bremen-Hauptbahnhof', 'Bremen-Flughafen']
     },
     {
       name: 'Hamburg',
-      cities: ['City J', 'City K', 'City L']
+      cities: ['Wilhemsburg', 'Hamburg-Hauptbahnhof', 'Hamburg-Flughafen']
     },
     {
       name: 'Niedersachsen',
-      cities: ['City M', 'City N', 'City O']
+      cities: ['Hannover-Flughafen', 'Braunschweig-Hauptbahnhof', 'Osnabrück-Hauptbahnhof']
     },
     {
       name: 'Saarland',
-      cities: ['City P', 'City Q', 'City R']
+      cities: ['Saarbrücken', 'Saarbrücken-Hauptbahnhof', 'Schwalbach']
     }
   ];
 

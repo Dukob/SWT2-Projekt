@@ -42,7 +42,7 @@ const SearchBar = () => {
                 value={Rückkehrdatum}
                 onChange={(e) => setRückkehrdatum(e.target.value)}
             />
-            <button onClick={handleSearch}>Valider</button>
+            <button onClick={handleSearch}>Suchen</button>
         </div>
     );
 };

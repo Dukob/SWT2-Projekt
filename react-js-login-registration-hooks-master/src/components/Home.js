@@ -11,7 +11,7 @@ const Home = () => {
       </video>
 
       <div className="contenu">
-        <h3>Lass uns zusammen fahren</h3>
+        <h3>Lassen Sie uns gemeinsam Ihre nächste Reise planen...</h3>
       </div>
       <SearchBar/>
     </div>

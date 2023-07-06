@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Card.css';
 
-const Card = ({ name, image, category, description, linkUrl, id }) => {
+const Card = ({ name, image, category, description, linkUrl }) => {
   const navigate = useNavigate();
   const [isHovered, setIsHovered] = useState(false);
 

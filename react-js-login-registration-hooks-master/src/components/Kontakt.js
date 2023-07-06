@@ -7,7 +7,7 @@ export const Kontakt = () => {
             <h3 className="font-extrabold mp-4 text-3xl">Wir Sind für Sie da...</h3>
             <p>Wir sind an jedem Tag der Woche für Sie da. Sie erreichen uns telefonisch zwischen 8 und 20 Uhr unter der Nummer<b>+49 421 085624</b></p>
             <p style={{ textAlign: 'center' }}>Sie können uns auch per E-Mail unter der folgenden Adresse kontaktieren.</p>
-            <p style={{ color: 'darkblue' }}><b><u>Email:</u> kontakt@gmail.dev</b></p>
+            <p style={{ color: 'darkblue' }}><b><u>Email:</u> kontakt@lendmove.dev</b></p>
 
             <form>
                 <div>
