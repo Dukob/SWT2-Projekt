@@ -52,7 +52,7 @@ const App = () => {
     <div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
       <div className="logo-container">
-        <img source src=  "https://cdn.discordapp.com/attachments/1099031784185933915/1125089287721979904/LEND_MOVE_logo_1-1.png" alt="LogoImage" className="logo" />
+        <img source src=  "https://media.discordapp.net/attachments/1111363093776314529/1126490966270943312/LEND_MOVE_logo_1-1-1-removebg.png?width=1692&height=634" alt="LogoImage" className="logo" />
       </div>
         <Link to={"/"} className="navbar-brand">
           Home

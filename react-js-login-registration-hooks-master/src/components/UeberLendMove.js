@@ -3,7 +3,7 @@ import '../Move.css';
 
 const UeberLendMove = () => {
   return (
-    <div className="kard">
+    <div style={{backgroundColor: 'black'}} className="kard">
       <h1><strong>Über Lend Move</strong></h1>
       <p><b><i>Lend Move ist ein Unternehmen, das die Fortbewegungsmöglichkeiten seiner Nutzer erleichtert,
         indem es eine flexible, erschwingliche und praktische Autovermietung anbietet. Das Unternehmen nutzt die neuesten Technologien,
